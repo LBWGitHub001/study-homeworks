@@ -1,0 +1,3 @@
+D:/Project/Clion/judger/cmake-build-debug/CMakeFiles/judger.dir
+D:/Project/Clion/judger/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/Project/Clion/judger/cmake-build-debug/CMakeFiles/rebuild_cache.dir
